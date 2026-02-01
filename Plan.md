@@ -13,6 +13,9 @@ This project is in its infancy, in fact it hasn't even taken its first steps; I 
 To develop and learn about Operating Systems I am using [this](https://wiki.osdev.org/Expanded_Main_Page) guide here.
 I understand this is a massive project that will take a long time, as such please have patience with me.
 
+## Language
+Currently considering using and learning Zig for implementations.
+
 ## Schedule
 I plan to only work on this project during weekends (Sat-Sun) and to only allocate no more than 3 hours (Usually in the morning) of my freetime per day.
 I am a student and I don't want this to conflict with my studying and schedule during university, so there might be times where I work less and times where I work more.
