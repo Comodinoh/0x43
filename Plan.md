@@ -23,9 +23,6 @@ I am a student and I don't want this to conflict with my studying and schedule d
 ## Versioning
 I plan to use [semantic versioning](https://semver.org/).
 
-## Naming
-This project still doesn't have a name, you're free to suggest any name that might come up in your head.
-
 ## Contributing 
 Anyone is allowed to contribute, as long as it aligns with the license. I will take my time to check out contributions so they might be slow.
 
